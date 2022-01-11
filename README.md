@@ -1,6 +1,6 @@
 ## Laravel Demo App
 
-Database driver: SQLite
+Database driver: SQLite <br/>
 In project root:
 * npm install
 * composer install
