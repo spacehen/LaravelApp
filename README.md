@@ -10,3 +10,4 @@ In project root:
 * php artisan serve
 
 Project file includes .env (although unsafe) for convenience.
+Swipe up, down, left, right intended for mobile devices (switch to mobile view in chrome).
