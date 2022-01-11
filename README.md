@@ -9,5 +9,5 @@ In project root:
 * php artisan migrate
 * php artisan serve
 
-Project file includes .env (although unsafe) for convenience.
+Project file includes .env (although unsafe) for convenience. <br/>
 Swipe up, down, left, right intended for mobile devices (switch to mobile view in chrome).
